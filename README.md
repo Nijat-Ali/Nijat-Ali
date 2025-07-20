@@ -1,4 +1,5 @@
 👋 Hi, I’m Nijat Aliyev
+
 I'm a Full Stack JavaScript Developer, Product Owner, and IT Project Manager with over 6 years of experience in the tech industry — 3 years as a Frontend Developer, and 3 years as a Product Owner.
 
 🚀 Passionate about building impactful digital products, I bring a unique blend of technical expertise and product vision. I’ve led cross-functional teams, managed end-to-end product lifecycles, and delivered scalable solutions in dynamic environments.
