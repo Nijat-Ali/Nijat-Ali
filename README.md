@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I’m Nijat Aliyev
+I'm a Full Stack JavaScript Developer, Product Owner, and IT Project Manager with over 6 years of experience in the tech industry — 3 years as a Frontend Developer, and 3 years as a Product Owner.
 
-<!--
-**Nijat-Ali/Nijat-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building impactful digital products, I bring a unique blend of technical expertise and product vision. I’ve led cross-functional teams, managed end-to-end product lifecycles, and delivered scalable solutions in dynamic environments.
 
-Here are some ideas to get you started:
+💡 I’m an entrepreneurship enthusiast who has learned invaluable lessons from launching (and failing) two startups. These experiences fuel my drive to build better products and grow through continuous iteration and learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Currently exploring the exciting world of AI, machine learning, and robotics software development, always aiming to stay at the forefront of innovation.
+
+🛠️ Tech & Tools
+Languages & Frameworks: JavaScript (ES6+), TypeScript, React, Node.js, Express
+
+Tools & Platforms: Git, Docker, Vercel, Firebase, MongoDB, PostgreSQL
+
+Product & PM: Jira, Notion, Trello, Agile/Scrum, Figma
+
+Learning: Python for ML, TensorFlow, OpenCV
+
+📫 Let’s connect!
+I’m always open to collaboration, mentorship, or just chatting about startups and tech.
+Feel free to reach out via LinkedIn or [email@example.com].
