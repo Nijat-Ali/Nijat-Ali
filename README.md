@@ -16,6 +16,8 @@ Product & PM: Jira, Notion, Trello, Agile/Scrum, Figma
 
 Learning: Python for ML, TensorFlow, OpenCV
 
+[![Nijat's GitHub stats](https://github-readme-stats.vercel.app/api?username=nijat-ali&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 📫 Let’s connect!
 I’m always open to collaboration, mentorship, or just chatting about startups and tech.
-Feel free to reach out via LinkedIn or [email@example.com].
+Feel free to reach out via https://www.linkedin.com/in/nijat-aliyev-b71987261/ or personalnijatali@gmail.com .
